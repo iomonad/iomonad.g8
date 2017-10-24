@@ -10,5 +10,5 @@
     src='https://coveralls.io/repos/github/iomonad/$name$/badge.svg?branch=master'
     alt='Coverage Status' />
   </a><br>
-  <u>$description$</u><br><br>
+  <u>$desc$</u><br><br>
 </p>
